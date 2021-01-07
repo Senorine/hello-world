@@ -1,0 +1,674 @@
+2021.01.05 14:39:34 INFO  Started: Metals version 0.9.8 in workspace '/home/fsenorine/intro-demos' for client vscode.
+2021.01.05 14:39:35 INFO  time: initialize in 0.52s
+2021.01.05 14:39:36 WARN  Build server is not auto-connectable.
+2021.01.05 14:40:41 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.05 14:40:43 INFO  no build target: using presentation compiler with only scala-library
+2021.01.05 14:43:12 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.05 16:52:27 INFO  shutting down Metals
+2021.01.05 19:56:18 INFO  Started: Metals version 0.9.8 in workspace '/home/fsenorine/intro-demos' for client vscode.
+2021.01.05 19:56:18 INFO  time: initialize in 0.34s
+2021.01.05 19:56:18 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+2021.01.05 19:56:19 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher4291303283046192696/bsp.socket'...
+Waiting for the bsp connection to come up...
+2021.01.05 19:56:18 INFO  skipping build import with status 'Requested'
+Waiting for the bsp connection to come up...
+2021.01.05 19:56:20 INFO  no build target: using presentation compiler with only scala-library
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.6-15-209c2a5c...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher4291303283046192696/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher4291303283046192696/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.05 19:56:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/fsenorine/.cache/metals/bsp.trace.json
+2021.01.05 19:56:22 INFO  time: connected to build server in 3.56s
+2021.01.05 19:56:22 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.05 19:56:22 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.05 19:56:22 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.05 19:56:22 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.05 19:56:23 WARN  Could not find java sources in None. Java symbols will not be available.
+2021.01.05 19:56:23 INFO  time: indexed workspace in 0.3s
+2021.01.05 19:56:23 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.05 19:56:46 INFO  shutting down Metals
+2021.01.05 19:56:46 INFO  Shut down connection with build server.
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+2021.01.05 19:57:49 INFO  Started: Metals version 0.9.8 in workspace '/home/fsenorine/intro-demos' for client vscode.
+2021.01.05 19:57:49 INFO  time: initialize in 0.38s
+2021.01.05 19:57:49 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher3692236497489446997/bsp.socket'...
+2021.01.05 19:57:50 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Waiting for the bsp connection to come up...
+2021.01.05 19:57:49 INFO  skipping build import with status 'Requested'
+Waiting for the bsp connection to come up...
+2021.01.05 19:57:51 INFO  no build target: using presentation compiler with only scala-library
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.6-15-209c2a5c...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher3692236497489446997/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher3692236497489446997/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.05 19:57:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/fsenorine/.cache/metals/bsp.trace.json
+2021.01.05 19:57:52 INFO  time: connected to build server in 3.05s
+2021.01.05 19:57:52 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.05 19:57:53 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.05 19:57:53 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.05 19:57:53 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.05 19:57:53 WARN  Could not find java sources in None. Java symbols will not be available.
+2021.01.05 19:57:53 INFO  time: indexed workspace in 0.17s
+2021.01.05 19:57:53 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.05 20:13:24 INFO  shutting down Metals
+2021.01.05 20:13:24 INFO  Shut down connection with build server.
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+2021.01.05 20:14:30 INFO  Started: Metals version 0.9.8 in workspace '/home/fsenorine/intro-demos' for client vscode.
+2021.01.05 20:14:30 INFO  time: initialize in 0.34s
+2021.01.05 20:14:30 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher4479492457200885893/bsp.socket'...
+Waiting for the bsp connection to come up...
+2021.01.05 20:14:31 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.05 20:14:30 INFO  skipping build import with status 'Requested'
+Waiting for the bsp connection to come up...
+2021.01.05 20:14:32 INFO  no build target: using presentation compiler with only scala-library
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.6-15-209c2a5c...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher4479492457200885893/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher4479492457200885893/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.05 20:14:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/fsenorine/.cache/metals/bsp.trace.json
+2021.01.05 20:14:33 INFO  time: connected to build server in 2.64s
+2021.01.05 20:14:33 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.05 20:14:33 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.05 20:14:33 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.05 20:14:33 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.05 20:14:34 WARN  Could not find java sources in None. Java symbols will not be available.
+2021.01.05 20:14:34 INFO  time: indexed workspace in 0.14s
+2021.01.05 20:14:33 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.05 20:29:36 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 05, 2021 9:09:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+Jan 05, 2021 9:10:21 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 05, 2021 9:10:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:23)
+
+something's wrong: no file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala in Array[<error>]RangePosition(file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala, 62, 62, 77)
+something's wrong: no file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala in Array[<error>]RangePosition(file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala, 62, 62, 70)
+something's wrong: no file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala in Array[<error>]RangePosition(file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala, 62, 62, 77)
+something's wrong: no file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala in Array[<error>]RangePosition(file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala, 62, 62, 70)
+something's wrong: no file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala in Array[<error>]RangePosition(file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala, 62, 62, 71)
+something's wrong: no file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala in Array[<error>]RangePosition(file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala, 62, 62, 72)
+something's wrong: no file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala in Array[<error>]RangePosition(file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala, 62, 62, 73)
+something's wrong: no file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala in Array[<error>]RangePosition(file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala, 62, 62, 74)
+something's wrong: no file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala in Array[String]RangePosition(file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala, 62, 62, 75)
+something's wrong: no file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala in Array[String]RangePosition(file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala, 62, 62, 75)
+something's wrong: no file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala in Array[String]RangePosition(file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala, 62, 62, 75)
+Jan 05, 2021 9:11:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 280
+2021.01.05 21:11:52 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+something's wrong: no file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala in Array[String]RangePosition(file:///home/fsenorine/intro-demos/src/main/scala/example/Hello.scala, 62, 62, 75)
+2021.01.05 21:12:35 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.05 21:12:54 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.05 21:13:34 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.05 21:39:35 INFO  shutting down Metals
+No more data in the client stdin, exiting...
+Jan 05, 2021 9:39:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+INFO: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.nio.channels.ClosedChannelException
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:126)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:88)
+	at com.sun.proxy.$Proxy9.onBuildExit(Unknown Source)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:82)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:78)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SinkChannelImpl.ensureOpen(SinkChannelImpl.java:154)
+	at sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:158)
+	at java.nio.channels.Channels.writeFullyImpl(Channels.java:78)
+	at java.nio.channels.Channels.writeFully(Channels.java:98)
+	at java.nio.channels.Channels.access$000(Channels.java:61)
+	at java.nio.channels.Channels$1.write(Channels.java:174)
+	at java.io.OutputStream.write(OutputStream.java:75)
+	at java.nio.channels.Channels$1.write(Channels.java:155)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:125)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 14 more
+
+2021.01.05 21:39:35 INFO  Shut down connection with build server.
+2021.01.05 21:39:48 INFO  Started: Metals version 0.9.8 in workspace '/home/fsenorine/intro-demos' for client vscode.
+2021.01.05 21:39:48 INFO  time: initialize in 0.37s
+2021.01.05 21:39:48 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher5018308366351945546/bsp.socket'...
+Waiting for the bsp connection to come up...
+2021.01.05 21:39:49 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.05 21:39:48 INFO  skipping build import with status 'Requested'
+Waiting for the bsp connection to come up...
+2021.01.05 21:39:50 INFO  no build target: using presentation compiler with only scala-library
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.6-15-209c2a5c...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher5018308366351945546/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher5018308366351945546/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.05 21:39:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/fsenorine/.cache/metals/bsp.trace.json
+2021.01.05 21:39:52 INFO  time: connected to build server in 3.21s
+2021.01.05 21:39:52 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.05 21:39:52 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.05 21:39:52 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.05 21:39:52 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.05 21:39:52 WARN  Could not find java sources in None. Java symbols will not be available.
+2021.01.05 21:39:52 INFO  time: indexed workspace in 0.16s
+2021.01.05 21:39:52 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.05 22:09:34 INFO  shutting down Metals
+2021.01.05 22:09:34 INFO  Shut down connection with build server.
+No more data in the client stdin, exiting...
+2021.01.06 06:53:34 INFO  Started: Metals version 0.9.8 in workspace '/home/fsenorine/intro-demos' for client vscode.
+2021.01.06 06:53:35 INFO  time: initialize in 0.35s
+2021.01.06 06:53:34 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher3112516642887538054/bsp.socket'...
+2021.01.06 06:53:35 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Waiting for the bsp connection to come up...
+2021.01.06 06:53:35 INFO  skipping build import with status 'Requested'
+Waiting for the bsp connection to come up...
+2021.01.06 06:53:37 INFO  no build target: using presentation compiler with only scala-library
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.6-15-209c2a5c...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher3112516642887538054/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher3112516642887538054/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.06 06:53:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/fsenorine/.cache/metals/bsp.trace.json
+2021.01.06 06:53:38 INFO  time: connected to build server in 3.48s
+2021.01.06 06:53:38 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.06 06:53:39 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.06 06:53:39 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.06 06:53:39 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.06 06:53:39 WARN  Could not find java sources in None. Java symbols will not be available.
+2021.01.06 06:53:39 INFO  time: indexed workspace in 0.14s
+2021.01.06 06:53:39 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 6:59:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+Jan 06, 2021 6:59:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Jan 06, 2021 6:59:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 63
+Jan 06, 2021 6:59:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+2021.01.06 07:00:31 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:01:02 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:01:45 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:02:10 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:04:57 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:05:27 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:06:40 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 7:06:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 660
+2021.01.06 07:06:59 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 7:08:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 874
+2021.01.06 07:08:26 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:09:55 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:10:19 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:12:56 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 7:18:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1585
+2021.01.06 07:21:19 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 7:22:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2123
+Jan 06, 2021 7:22:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2175
+Jan 06, 2021 7:22:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2177
+2021.01.06 07:24:54 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:26:31 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:27:33 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:28:27 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:28:31 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:28:45 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:29:11 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 7:30:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2739
+2021.01.06 07:30:41 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:33:37 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:33:50 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:33:55 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:35:10 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:35:32 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 7:36:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3138
+2021.01.06 07:36:53 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 7:41:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3539
+2021.01.06 07:42:25 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:43:02 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:51:37 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:54:37 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:54:50 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 7:58:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4270
+Jan 06, 2021 7:58:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4352
+2021.01.06 07:58:31 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 07:59:07 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 08:00:20 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 08:07:27 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 8:16:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5171
+2021.01.06 08:20:30 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 8:21:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5700
+Jan 06, 2021 8:21:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5770
+2021.01.06 08:23:49 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 8:26:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6038
+2021.01.06 08:27:40 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 08:32:40 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 08:32:51 WARN  code navigation does not work for the file '/home/fsenorine/intro-demos/src/main/scala/example/Hello.scala' because it doesn't belong to a build target.
+2021.01.06 08:32:51 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 08:39:14 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 10:57:18 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/ClassDemo.scala
+Jan 06, 2021 10:59:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7196
+Jan 06, 2021 11:00:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7302
+2021.01.06 11:00:34 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/ClassDemo.scala
+Jan 06, 2021 11:00:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7375
+2021.01.06 11:01:05 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/ClassDemo.scala
+2021.01.06 11:01:10 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/ClassDemo.scala
+Jan 06, 2021 11:06:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7427
+Jan 06, 2021 11:06:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7522
+2021.01.06 11:08:30 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 11:08:56 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 11:10:03 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 11:11:07 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 11:12:42 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 11:17:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7911
+Jan 06, 2021 11:18:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7976
+Jan 06, 2021 11:40:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8002
+Jan 06, 2021 11:41:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8142
+Jan 06, 2021 11:41:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8144
+2021.01.06 11:42:12 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/ClassDemo.scala
+Jan 06, 2021 11:42:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8247
+2021.01.06 11:42:53 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 11:43:17 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:20:57 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/ClassDemo.scala
+Jan 06, 2021 2:22:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8480
+Jan 06, 2021 2:22:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8482
+Jan 06, 2021 2:22:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8484
+2021.01.06 14:24:48 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 2:29:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8909
+2021.01.06 14:30:30 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 2:32:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9083
+Jan 06, 2021 2:32:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9085
+2021.01.06 14:33:20 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:35:17 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 2:35:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9389
+Jan 06, 2021 2:37:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9438
+Jan 06, 2021 2:37:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9532
+Jan 06, 2021 2:38:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9629
+Jan 06, 2021 2:38:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9688
+Jan 06, 2021 2:41:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9880
+2021.01.06 14:43:07 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:44:16 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:44:27 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:44:48 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:46:05 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:47:08 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:47:19 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:48:20 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:49:23 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:49:25 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:51:54 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 2:54:14 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:674)
+	at scala.meta.internal.pc.completions.MatchCaseCompletions$CaseKeywordCompletion.<init>(MatchCaseCompletions.scala:49)
+	at scala.meta.internal.pc.completions.Completions.fromIdentApply$1(Completions.scala:423)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:443)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 06, 2021 2:54:14 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:674)
+	at scala.meta.internal.pc.completions.MatchCaseCompletions$CaseKeywordCompletion.<init>(MatchCaseCompletions.scala:49)
+	at scala.meta.internal.pc.completions.Completions.fromIdentApply$1(Completions.scala:423)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:443)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 06, 2021 2:54:15 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:674)
+	at scala.meta.internal.pc.completions.MatchCaseCompletions$CaseKeywordCompletion.<init>(MatchCaseCompletions.scala:49)
+	at scala.meta.internal.pc.completions.Completions.fromIdentApply$1(Completions.scala:423)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:443)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 06, 2021 2:54:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10715
+2021.01.06 14:55:33 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:56:58 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 14:57:52 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 3:03:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11132
+Jan 06, 2021 3:03:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11134
+2021.01.06 15:06:25 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 15:06:51 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 15:06:59 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 15:08:44 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 3:09:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11596
+Jan 06, 2021 3:12:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11801
+2021.01.06 15:13:08 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 3:13:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11909
+2021.01.06 15:13:43 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 3:14:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12009
+2021.01.06 15:15:06 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 15:15:53 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 15:15:57 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 15:16:25 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 15:16:44 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 15:22:36 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 3:23:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12607
+2021.01.06 15:24:22 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 3:24:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: -2
+java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:375)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:373)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:198)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:309)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:303)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:339)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:316)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:924)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:923)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:316)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:315)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:924)
+	at scala.collection.immutable.List.foreach(List.scala:431)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:923)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:315)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:303)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:272)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:27)
+
+2021.01.06 15:24:51 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 15:25:45 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 3:27:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12849
+Jan 06, 2021 3:27:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12926
+2021.01.06 15:29:50 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 3:37:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13422
+Jan 06, 2021 3:38:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13682
+2021.01.06 15:51:14 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 15:52:17 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 15:53:02 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 15:54:56 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 4:09:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14543
+Jan 06, 2021 4:09:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14605
+Jan 06, 2021 4:10:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14781
+2021.01.06 16:10:52 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 16:11:37 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 4:12:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14876
+Jan 06, 2021 4:12:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14903
+2021.01.06 16:13:00 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 4:17:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15141
+2021.01.06 16:20:08 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 4:22:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15708
+Jan 06, 2021 4:25:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15848
+Jan 06, 2021 4:26:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15960
+Jan 06, 2021 4:26:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16076
+Jan 06, 2021 4:28:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16276
+Jan 06, 2021 4:28:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16291
+2021.01.06 16:29:14 WARN  code navigation does not work for the file '/home/fsenorine/intro-demos/src/main/scala/example/Hello.scala' because it doesn't belong to a build target.
+2021.01.06 16:29:37 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 4:30:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16387
+2021.01.06 16:31:58 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 16:33:05 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 16:33:17 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 16:39:07 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 16:39:16 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 4:40:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17097
+2021.01.06 16:41:54 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 5:04:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17589
+2021.01.06 17:04:58 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:05:21 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:06:21 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:09:45 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:10:18 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:10:35 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:13:42 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:14:11 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:14:45 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:14:48 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:16:13 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:19:15 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:19:48 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:20:10 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 17:20:49 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+2021.01.06 19:37:35 WARN  no build target for: /home/fsenorine/intro-demos/src/test/scala/example/HelloSpec.scala
+2021.01.06 19:38:43 INFO  shutting down Metals
+No more data in the client stdin, exiting...
+Jan 06, 2021 7:38:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+INFO: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.nio.channels.ClosedChannelException
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:126)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:88)
+	at com.sun.proxy.$Proxy9.onBuildExit(Unknown Source)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:82)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:78)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SinkChannelImpl.ensureOpen(SinkChannelImpl.java:154)
+	at sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:158)
+	at java.nio.channels.Channels.writeFullyImpl(Channels.java:78)
+	at java.nio.channels.Channels.writeFully(Channels.java:98)
+	at java.nio.channels.Channels.access$000(Channels.java:61)
+	at java.nio.channels.Channels$1.write(Channels.java:174)
+	at java.io.OutputStream.write(OutputStream.java:75)
+	at java.nio.channels.Channels$1.write(Channels.java:155)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:125)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 14 more
+
+2021.01.06 19:38:43 INFO  Shut down connection with build server.
+2021.01.06 20:03:11 INFO  Started: Metals version 0.9.8 in workspace '/home/fsenorine/intro-demos' for client vscode.
+2021.01.06 20:03:12 INFO  time: initialize in 0.33s
+2021.01.06 20:03:11 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+2021.01.06 20:03:12 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher4516790516158816243/bsp.socket'...
+Waiting for the bsp connection to come up...
+2021.01.06 20:03:12 INFO  skipping build import with status 'Requested'
+Waiting for the bsp connection to come up...
+2021.01.06 20:03:14 INFO  no build target: using presentation compiler with only scala-library
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.6-15-209c2a5c...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher4516790516158816243/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher4516790516158816243/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.06 20:03:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/fsenorine/.cache/metals/bsp.trace.json
+2021.01.06 20:03:15 INFO  time: connected to build server in 3.08s
+2021.01.06 20:03:15 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.06 20:03:15 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.06 20:03:15 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.06 20:03:15 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.06 20:03:16 WARN  Could not find java sources in None. Java symbols will not be available.
+2021.01.06 20:03:16 INFO  time: indexed workspace in 0.15s
+2021.01.06 20:03:16 WARN  no build target for: /home/fsenorine/intro-demos/src/main/scala/example/Hello.scala
+Jan 06, 2021 8:19:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
